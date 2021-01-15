@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Learning path about the Mobile Test Automation: Appium
 
-You can use the [editor on GitHub](https://github.com/AnhTester/Introduction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some useful resources which I need to review again, otherwise it's easy to forget
+https://www.tefter.io/~awesome/lists/awesome-appium
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
