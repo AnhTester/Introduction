@@ -1,6 +1,7 @@
 ## Welcome to My Learning path about the Mobile Test Automation: Appium
 
 Here are some useful resources which I need to review again, otherwise it's easy to forget
+
 https://www.tefter.io/~awesome/lists/awesome-appium
 
 
